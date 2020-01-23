@@ -13,3 +13,7 @@ Coroutines, Retrofit, Gson, MPAndroidChart, Runtime-permission-kotlin, ViewModel
 соединение точек не ломаной линией, а сглаженной
 работа в портретной и ландшафтной ориентации экрана
 сохранение изображения графика в файл
+
+![Image description](https://github.com/SuleymanovTat/Graphics/blob/master/image/0.jpg)
+![Image description](https://github.com/SuleymanovTat/Graphics/blob/master/image/1.jpg)
+
