@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rlcity"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvX"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        tools:text="x = 1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tvX"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/tvY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_toEndOf="@+id/tvX"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        tools:text="y = 3" />
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Graphics</string>
+    <string name="insert_the_number">Введите число</string>
+    <string name="go">Поехали</string>
+    <string name="x">x = %1$s</string>
+    <string name="y">y = %1$s</string>
+    <string name="line">Линия</string>
+    <string name="permission_denied">Отказано в разрешении</string>
+    <string name="schedule_saved">График сохранен</string>
+    <string name="error_network">Проверьте подключение сети</string>
+    <string name="invalid_request">Неправильные параметры запроса,\nдиапазон от 1 до 200</string>
+    <string name="empty" />
+    <string name="error">Произошла непредвиденная ошибка</string>
+    <string name="screenshot">Screenshot</string>
+</resources>
